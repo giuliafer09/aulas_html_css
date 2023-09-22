@@ -1,0 +1,9 @@
+div{
+    border: 4px dotted rgb(37, 37, 151);
+    width: fit-content;
+    font-size: 24px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 10px; 
+}
